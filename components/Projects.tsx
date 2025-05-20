@@ -6,7 +6,7 @@ const Projects: React.FC<{}> = () => {
   return (
     <section id="projects">
       <h2 className="text-white font-semibold text-center text-3xl md:text-6xl pt-10">
-        PROJECTS
+        MY OWN PROJECTS
       </h2>
       <p className="tracking-[0.5em] text-center text-transparent font-light pb-10 bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500 text-xs sm:text-1xl mt-3">
         EXPLORE NOW

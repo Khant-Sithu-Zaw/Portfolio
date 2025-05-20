@@ -21,7 +21,7 @@ const Banner: React.FC<{}> = () => {
         <div className="animate-glow tracking-tighter text-2xl sm:text-4xl md:text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
           Khant Sithu Zaw
         </div>
-        <div className="flex justify-center">
+        <div className="flex justify-center items-center">
           <p className="text-base sm:text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
             <span className="inline-block tracking-[5px] uppercase animate-move text-black/90">Code</span>
             &{" "}
@@ -43,6 +43,8 @@ const Banner: React.FC<{}> = () => {
         </p>
         <div className="text-md flex justify-center">
           <a
+            target="_blank"
+            rel="noopener"
             href="https://mail.google.com/mail/?view=cm&fs=1&to=khantsithuzaw10@gmail.com"
             className="z-[1] no-underline padding-20 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent text-xs sm:text-lg"
           >
