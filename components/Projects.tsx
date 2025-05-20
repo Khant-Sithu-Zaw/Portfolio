@@ -49,7 +49,7 @@ const Projects: React.FC<{}> = () => {
             href={project.link}
             rel="noopener noreferrer"
             target="_blank"
-            className="group block bg-[#111] overflow-hidden shadow-md transition hover:shadow-lg z-50 hover:opacity-70"
+            className="group block bg-[#111] overflow-hidden shadow-md transition hover:shadow-lg z-40 hover:opacity-70"
           >
             <div className="flex flex-wrap h-auto justify-center md:justify-start sm:items-center lg:items-start">
               {/* Image */}
