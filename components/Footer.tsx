@@ -32,8 +32,8 @@ const Footer: React.FC<{}> = () => {
             >
               <Image
                 src={social.image}
-                height={30}
-                width={30}
+                height={40}
+                width={40}
                 alt={social.alt}
                 sizes="100vw"
                 className="mx-5"
@@ -42,7 +42,7 @@ const Footer: React.FC<{}> = () => {
           );
         })}
       </div>
-  
+
     </div>
   );
 };
