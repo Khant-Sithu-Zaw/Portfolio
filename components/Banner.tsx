@@ -24,7 +24,7 @@ const Banner: React.FC<{}> = () => {
         <div className="flex justify-center">
           <p className="text-base sm:text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
             <span className="inline-block tracking-[5px] uppercase animate-move text-black/90">Code</span>
-             &{" "}
+            &{" "}
             <span className="text-transparent font-semibold  bg-clip-text bg-gradient-to-r from-purple-500 to-orange-400">
               Chill
             </span>
@@ -34,20 +34,20 @@ const Banner: React.FC<{}> = () => {
             height={20}
             width={20}
             alt="PopCorn"
-             className="sm:w-[50px] sm:h-[50px] w-[25px] h-[25px]"
+            className="sm:w-[50px] sm:h-[50px] w-[25px] h-[25px]"
           />
         </div>
- 
+
         <p className="text-xs sm:text-lg text-gray-200 my-5 max-w-[600px]">
-        Passionate Web Developer focused on creating seamless user experiences. Driven by a love for technology and a commitment to continuous learning, I specialize in Angular.js, React.js, Laravel, and Java. I excel at transforming complex ideas into intuitive applications.
+          Passionate Web Developer focused on creating seamless user experiences. Driven by a love for technology and a commitment to continuous learning, I specialize in Angular.js, React.js, Laravel, and Java. I excel at transforming complex ideas into intuitive applications.
         </p>
         <div className="text-md flex justify-center">
-        <a
-  href="mailto:khantsithuzaw10@gmail.com"
-  className="z-[1] no-underline padding-20 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent text-xs sm:text-lg"
->
-  Contact Me
-</a>
+          <a
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=khantsithuzaw10@gmail.com"
+            className="z-[1] no-underline padding-20 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border-[0.1px] border-white hover:border-transparent text-xs sm:text-lg"
+          >
+            Contact Me
+          </a>
         </div>
       </div>
     </div>
