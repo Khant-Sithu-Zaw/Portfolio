@@ -50,7 +50,7 @@ const Navbar: React.FC<{}> = () => {
 
         {/* Hamburger Icon */}
         <button
-          className="md:hidden text-white text-2xl z-50 pt-10"
+          className="md:hidden text-white text-2xl z-50 relative top-10 "
           onClick={() => setMenuOpen((prev) => !prev)}
           aria-label="Toggle menu"
         >

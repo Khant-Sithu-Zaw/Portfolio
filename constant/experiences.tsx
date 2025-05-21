@@ -9,11 +9,11 @@ export const experiences = [
     logoSrc: "/MTM.png",
   },
   {
-    company: "CGM Golden Land Co.,Ltd(AOTS研修)",
+    company: "CGM Golden Land Co.,Ltd(AOTS 研修)",
     role: "Full-Stack Developer Trainee",
     location: "Myanmar",
     date: "Nov 2023 - Mar 2024",
-    description: `Completed a 4-month training program focused on full-stack development. Gained hands-on experience with frontend and backend technologies, including Java, Spring Boot, and MySQL. Also participated in a 1-month Business Manner and Speaking Practice session with native Japanese in order to work effectively in a Japanese corporate environment.`,
+    description: `Completed a 4-month training program supported by the AOTS organization and conducted by CGM Company, focusing on full-stack development. Gained hands-on experience with both frontend and backend technologies, including Java, Spring Boot, and MySQL. Also participated in a 1-month Business Manner and Japanese Speaking Practice session with native speakers to prepare for working effectively in a Japanese corporate environment.`,
     skills: ["Frontend", "Spring Boot", "Business Manner"],
     logoSrc: "/aots.png",
   },
