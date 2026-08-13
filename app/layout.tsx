@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "Developer Portflio",
     "Frontend Developer",
     "Java Developer",
-    "Php Developer",
+    "React Developer",
   ],
 };
 export default function RootLayout({
@@ -41,7 +41,7 @@ export default function RootLayout({
               "@context": "http://schema.org",
               "@type": "Person",
               name: "Khant Sithu Zaw",
-              jobTitle: "Web Developer",
+              jobTitle: "開発者（Developer)",
               sameAs: [
                 "https://www.linkedin.com/in/khant-si-thu-zaw-935372308/",
                 "https://github.com/Khant-Sithu-Zaw",

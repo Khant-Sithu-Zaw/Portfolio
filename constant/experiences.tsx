@@ -10,7 +10,7 @@ export const experiences = [
   },
   {
     company: "CGM Golden Land Co.,Ltd(AOTS 研修)",
-    role: "Full-Stack Developer Trainee",
+    role: "Trainee Full-Stack Developer",
     location: "Myanmar",
     date: "Nov 2023 - Mar 2024",
     description: `Completed a 4-month training program supported by the AOTS organization and conducted by CGM Company, focusing on full-stack development. Gained hands-on experience with both frontend and backend technologies, including Java, Spring Boot, and MySQL. Also participated in a 1-month Business Manner and Japanese Speaking Practice session with native speakers to prepare for working effectively in a Japanese corporate environment.`,
@@ -25,6 +25,16 @@ export const experiences = [
     description: `Working on Java-based enterprise systems and Visual Basic macros for Japanese clients. Write unit and integration test cases in Japanese, debug code, and handle documentation. Also responsible for developing Python scripts using AWS services , i.e., S3, Athena, and Glue for data processing automation.`,
     skills: ["VBA", "Java", "Postgresql", "Oracle", "AWS S3+Athena", "Unit Testing", "Integration testing", "Python Script+AWS Glue"],
     logoSrc: "/brycen.png",
+
+  },
+  {
+    company: "M.T.M Ship Management Pte.Ltd",
+    role: "Seafarer",
+    location: "Myanmar",
+    date: "2026 - Present",
+    description: `Served as a seafarer, responsible for daily maintenance tasks, mooring,cargo operation and paper works. Gained practical experience in maritime operations, teamwork, and problem-solving in challenging environments. This role has enhanced my ability to work under pressure and adapt to dynamic situations at sea.`,
+    skills: ["Sounding of Ballast Water", "Ballasting & Deballasting", "Stencil Creation", "Paper Works", "Tank squeezing", "Chipping & Grinding", "Painting & Coating"],
+    logoSrc: "/mtmlogo.png",
 
   },
 ];

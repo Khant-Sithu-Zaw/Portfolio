@@ -39,7 +39,7 @@ const Banner: React.FC<{}> = () => {
         </div>
 
         <p className="text-xs sm:text-lg text-gray-200 my-5 max-w-[600px]">
-          Passionate Web Developer focused on creating seamless user experiences. Driven by a love for technology and a commitment to continuous learning, I specialize in Angular.js, React.js, Laravel, and Java. I excel at transforming complex ideas into intuitive applications.
+          Passionate Web Developer focused on creating seamless user experiences. Driven by a love for technology and a commitment to continuous learning, experienced in both Frontend & Backend Development using React, Angular, ReactNative, Java, Laravel and VBA.Excel at transforming complex ideas into intuitive applications.
         </p>
         <div className="text-md flex justify-center">
           <a

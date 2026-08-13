@@ -6,7 +6,7 @@ const Projects: React.FC<{}> = () => {
   return (
     <section id="projects">
       <h2 className="text-white font-semibold text-center text-3xl md:text-6xl pt-10">
-        MY OWN PROJECTS
+        MY PROJECTS
       </h2>
       <p className="tracking-[0.5em] text-center text-transparent font-light pb-10 bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500 text-xs sm:text-1xl mt-3">
         EXPLORE NOW
@@ -42,6 +42,13 @@ const Projects: React.FC<{}> = () => {
               "Developed a light-themed food store using Angular.js frontend and Laravel backend API. Clean UI with search and product categories.",
             image: "/onlineshop.png",
             link: "https://github.com/Khant-Sithu-Zaw/OnlineShop",
+          },
+          {
+            title: "Seafarer Toolbox",
+            description:
+              "Designed for seafarers, this app supports calculation tasks and résumé creation. Access nautical tools and in this app anytime for a better experience at sea.",
+            image: "/seafarer_toolbox.jpg",
+            link: "https://github.com/Khant-Sithu-Zaw/nautical-app/releases/download/NauticalToolbox_v1.0/seafarer_toolbox.apk",
           },
         ].map((project, idx) => (
           <a

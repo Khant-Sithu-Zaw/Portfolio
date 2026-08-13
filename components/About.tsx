@@ -53,16 +53,21 @@ const About: React.FC<{}> = () => {
           />
           <EducationItem
             title="AOTS Web Development Scholarship Program"
-            place="CGM Golden Land Co., Ltd"
+            place="CGM Golden Land Co.,Ltd"
             year="Nov 2023 - March 2024"
-            description="Focused on IT business strategy, management principles, and core technology concepts to prepare for the ITPEC exam."
+            description="Focused on both Web Development & Japanese Business Culture & Manner."
           />
           {/* Add more <EducationItem /> here */}
         </div>
       </div>
       {/* Certifications */}
       <div id="certificates">
-        <h3 className="text-2xl font-semibold mb-8">Certificates</h3>
+        <h2
+          className="text-2xl md:text-6xl sm:text-4xl  font-bold mb-8"
+        >
+          Certificates
+        </h2>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           <div className="bg-white/5 p-5  rounded-xl shadow-lg hover:shadow-xl transition duration-300">
             <h4 className="text-[15px] md:text-sm lg:text-xl xl:text-2xl font-semibold text-purple-300">Communicative English Level-2</h4>
@@ -79,7 +84,7 @@ const About: React.FC<{}> = () => {
           </div>
           <div className="bg-white/5 p-5 rounded-xl shadow-lg hover:shadow-xl transition duration-300">
             <h4 className="text-[15px] md:text-sm lg:text-xl xl:text-2xl font-semibold text-purple-300">Java SE Developer</h4>
-            <p className="text-[13px] md:text-xs lg:text-sm xl:text-lg text-gray-400 mt-1">Login Union • 2019 </p>
+            <p className="text-[13px] md:text-xs lg:text-sm xl:text-lg text-gray-400 mt-1">Logic Union • 2019 </p>
           </div>
           <div className="bg-white/5 p-5 rounded-xl shadow-lg hover:shadow-xl transition duration-300">
             <h4 className="text-[15px] md:text-sm lg:text-xl xl:text-2xl font-semibold text-purple-300">Japanese Language Proficiency Test N2</h4>

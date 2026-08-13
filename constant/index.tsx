@@ -15,7 +15,7 @@ export const Social_Icons = [
     alt: "Khant Sithu Zaw - Social Media",
   },
   {
-    link: "https://www.linkedin.com/in/khant-si-thu-zaw-935372308/",
+    link: "https://www.linkedin.com/in/khant-si-thu-zaw-935372308?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     image: "/LinkedIn.svg",
     alt: "Khant Sithu Zaw - LinkedIn",
   },
