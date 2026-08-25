@@ -21,20 +21,20 @@ export const experiences = [
     company: "Brycen Myanmar Co.,Ltd",
     role: "IT Engineer",
     location: "Myanmar",
-    date: "May 2024 - April 2025",
+    date: "May 2024 - July 2026",
     description: `Working on Java-based enterprise systems and Visual Basic macros for Japanese clients. Write unit and integration test cases in Japanese, debug code, and handle documentation. Also responsible for developing Python scripts using AWS services , i.e., S3, Athena, and Glue for data processing automation.`,
     skills: ["VBA", "Java", "Postgresql", "Oracle", "AWS S3+Athena", "Unit Testing", "Integration testing", "Python Script+AWS Glue"],
     logoSrc: "/brycen.png",
 
   },
-  {
-    company: "M.T.M Ship Management Pte.Ltd",
-    role: "Seafarer",
-    location: "Myanmar",
-    date: "2026 - Present",
-    description: `Served as a seafarer, responsible for daily maintenance tasks, mooring,cargo operation and paper works. Gained practical experience in maritime operations, teamwork, and problem-solving in challenging environments. This role has enhanced my ability to work under pressure and adapt to dynamic situations at sea.`,
-    skills: ["Sounding of Ballast Water", "Ballasting & Deballasting", "Stencil Creation", "Paper Works", "Tank squeezing", "Chipping & Grinding", "Painting & Coating"],
-    logoSrc: "/mtmlogo.png",
+  // {
+  //   company: "M.T.M Ship Management Pte.Ltd",
+  //   role: "Seafarer",
+  //   location: "Myanmar",
+  //   date: "2026 - Present",
+  //   description: `Served as a seafarer, responsible for daily maintenance tasks, mooring,cargo operation and paper works. Gained practical experience in maritime operations, teamwork, and problem-solving in challenging environments. This role has enhanced my ability to work under pressure and adapt to dynamic situations at sea.`,
+  //   skills: ["Sounding of Ballast Water", "Ballasting & Deballasting", "Stencil Creation", "Paper Works", "Tank squeezing", "Chipping & Grinding", "Painting & Coating"],
+  //   logoSrc: "/mtmlogo.png",
 
-  },
+  // },
 ];
